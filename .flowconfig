@@ -1,0 +1,5 @@
+[options]
+emoji=true
+
+[libs]
+# <PROJECT_ROOT>/modules/flow-typed
